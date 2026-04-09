@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Outer rounded square -->
+  <rect width="200" height="200" rx="44" fill="#1a1917"/>
+  
+  <!-- Stylised 'A' / brush stroke mark -->
+  <!-- Left diagonal stroke -->
+  <path d="M60 148 L100 52 L140 148" stroke="#f59e0b" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crossbar -->
+  <path d="M72 118 L128 118" stroke="#f59e0b" stroke-width="14" stroke-linecap="round"/>
+  <!-- Small serif dot above apex — the "keep" mark -->
+  <circle cx="100" cy="46" r="8" fill="#f59e0b"/>
+</svg>
